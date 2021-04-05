@@ -7,6 +7,6 @@
 <title>Hello Heroku from JSP!</title>
 </head>
 <body>
-Hello Heroku from JSP!
+Hello Heroku from JSP !
 </body>
 </html>
