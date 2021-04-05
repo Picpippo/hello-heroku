@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>it.fp.hh</groupId>
-	<artifactId>HelloHeroku</artifactId>
+	<artifactId>HelloHeroku789</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>HelloHeroku</name>
+	<name>HelloHeroku789</name>
 	<description>Primo microservizio in Spring boot</description>
 	<properties>
 		<java.version>1.8</java.version>
